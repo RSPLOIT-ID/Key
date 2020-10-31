@@ -8,7 +8,7 @@
 <a hred="#"><img title="Version" src="https://img.shields.io/badge/Version-1.0-blue"></a>
 </p>
 
-# Key-Termyx
+# Key-Termux
 + Tombol Tambahan Termux
 + Tools Baru
 
