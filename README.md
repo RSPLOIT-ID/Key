@@ -4,7 +4,7 @@
 
 <p align="center">
 <a href="#"><img title="Code Python" src="https://img.shields.io/badge/Code-Python2.7-blue"></a>
-<a href="#"><img title="Code Python3" src="https://img.shileds.io/badge/Code-Python3.9-blue"></a>
+<a href="#"><img title="Code Python3" src="https://img.shields.io/badge/Code-Python3.9-blue"></a>
 <a hred="#"><img title="Version" src="https://img.shields.io/badge/Version-1.0-blue"></a>
 </p>
 
